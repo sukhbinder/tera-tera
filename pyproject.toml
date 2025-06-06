@@ -1,6 +1,6 @@
 [project]
 name = "tera-tera"
-version = "0.0.1"
+version = "0.1.0"
 description = "Tera tera app to do langar seva at various gurudwara's"
 readme = "README.md"
 authors = [{name = "Sukhbinder Singh"}]
