@@ -7,6 +7,8 @@
 
 Tera tera app to do langar seva at various gurudwara's
 
+![Gurudwara Langar Seva](langar.png)
+
 ## Installation
 
 Install this tool using `pip`:
