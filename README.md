@@ -7,7 +7,7 @@
 
 Tera tera app to do langar seva at various gurudwara's
 
-![Gurudwara Langar Seva](langar.png)
+![Gurudwara Langar Seva](https://raw.githubusercontent.com/sukhbinder/tera-tera/main/langar.png)
 
 ## Installation
 
