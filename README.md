@@ -5,7 +5,7 @@
 [![Tests](https://github.com/sukhbinder/tera-tera/actions/workflows/test.yml/badge.svg)](https://github.com/sukhbinder/tera-tera/actions/workflows/test.yml)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/sukhbinder/tera-tera/blob/master/LICENSE)
 
-Tera tera app to do langar seva at various gurudwara's
+Tera tera app to contribute langar seva at various gurudwara's
 
 ![Gurudwara Langar Seva](https://raw.githubusercontent.com/sukhbinder/tera-tera/main/langar.png)
 
